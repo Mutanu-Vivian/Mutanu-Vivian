@@ -1,10 +1,10 @@
 # Welcome to my Github profile👋  
 ##About me  
 Hi! I’m @Mutanu-Vivian, an aspiring data engineer who loves pushing herself to achieve more. I enjoy working on projects centered around consumer behaviour and finance, and I'm eager to learn new things.
-- 👀 I’m interested in all things Data...
-- 🌱 I’m currently learning data engineering...
-- 💞️ I’m looking to collaborate on volunteer or work projects
-- 😄 Pronouns: she/he
+- 👀 I’m interested in all things Data Engineering...
+- 🌱 I’m currently learning Python and SQL programming languages...
+- 💞️ I’m looking to collaborate on volunteer and work projects
+- 😄 Pronouns: she/her
 
 <!---
 Mutanu-Vivian/Mutanu-Vivian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
