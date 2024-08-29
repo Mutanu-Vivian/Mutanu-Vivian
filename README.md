@@ -1,6 +1,6 @@
 # Welcome to my Github profile👋  
 ##About me  
-Hi! I’m @Mutanu-Vivian, an aspiring data engineer who loves pushing myself to achieve more. I enjoy working on projects centered around consumer behaviour and finance, and I'm eager to learn new things.
+Hi! I’m @Mutanu-Vivian, an aspiring data engineer who loves pushing herself to achieve more. I enjoy working on projects centered around consumer behaviour and finance, and I'm eager to learn new things.
 - 👀 I’m interested in all things Data...
 - 🌱 I’m currently learning data engineering...
 - 💞️ I’m looking to collaborate on volunteer or work projects
